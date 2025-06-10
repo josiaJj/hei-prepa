@@ -1,0 +1,3 @@
+# HEI Snake Game
+## STD22064 - Josia ANDRIMAMAHERILALA
+## STD22025 - Rotsy Mandrindra RASOANAIVO
