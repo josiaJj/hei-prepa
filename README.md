@@ -2,7 +2,7 @@
 
 ## PARTICIPANTS :
 ### STD22064 - Josia ANDRIMAHERILALA
-### STD22025 - Rotsy Mandrindra RASOANAIVO : [link] (https://github.com/RotsyMandrindra)
+### STD22025 - Rotsy Mandrindra RASOANAIVO : [link](https://github.com/RotsyMandrindra)
 
 ### Prérequis
 
