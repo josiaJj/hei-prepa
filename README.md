@@ -11,7 +11,7 @@
 
 ### Compilation
 
-1. Téléchargez le fichier `SnakeGame.java`.
+1. Téléchargez le fichier `./src/SnakeGame.java`.
 
 2. Ouvrez un terminal dans le dossier où se trouve le fichier.
 
